@@ -1,0 +1,1237 @@
+{
+  "intents": [
+    {
+      "intent": "General_Greetings",
+      "examples": [
+        {
+          "text": "Hello"
+        },
+        {
+          "text": "Hey twin"
+        },
+        {
+          "text": "Hey you"
+        },
+        {
+          "text": "Hi advisor"
+        },
+        {
+          "text": "Hi there"
+        },
+        {
+          "text": "How are things going?"
+        },
+        {
+          "text": "How are you today?"
+        },
+        {
+          "text": "How have you been?"
+        },
+        {
+          "text": "How is it going?"
+        },
+        {
+          "text": "How r u?"
+        },
+        {
+          "text": "Looking good eve"
+        },
+        {
+          "text": "Ok take me back"
+        },
+        {
+          "text": "What's new?"
+        },
+        {
+          "text": "What's up?"
+        },
+        {
+          "text": "Who is this?"
+        },
+        {
+          "text": "You there"
+        },
+        {
+          "text": "Hey there"
+        },
+        {
+          "text": "Hey how are you doing"
+        },
+        {
+          "text": "Hey there all"
+        },
+        {
+          "text": "Good day"
+        },
+        {
+          "text": "Good evening"
+        },
+        {
+          "text": "Good morning"
+        },
+        {
+          "text": "Good to see you"
+        },
+        {
+          "text": "Greetings"
+        },
+        {
+          "text": "Have you been well?"
+        },
+        {
+          "text": "Hello Agent"
+        },
+        {
+          "text": "Hello I am looking for some help here"
+        }
+      ],
+      "description": "Greet the bot."
+    },
+    {
+      "intent": "Customer_Care_Products_Offered",
+      "examples": [
+        {
+          "text": "What products do you offer in the company?"
+        },
+        {
+          "text": "Catalogue look"
+        },
+        {
+          "text": "I need information on one of your products"
+        },
+        {
+          "text": "I would like to know what I can buy"
+        },
+        {
+          "text": "Items available?"
+        },
+        {
+          "text": "Items currently sold"
+        },
+        {
+          "text": "Need to know what products you have"
+        },
+        {
+          "text": "New products"
+        },
+        {
+          "text": "Show me retirement products"
+        },
+        {
+          "text": "Show me some cars"
+        },
+        {
+          "text": "Tell me about shoes"
+        },
+        {
+          "text": "What are your business banking products?"
+        },
+        {
+          "text": "What does your business sell?"
+        },
+        {
+          "text": "What does your shop provide?"
+        },
+        {
+          "text": "What kind of products are available?"
+        },
+        {
+          "text": "What kinds of products do you sell?"
+        },
+        {
+          "text": "What potential products or services are available?"
+        },
+        {
+          "text": "What product do you recommend for a tech consultant?"
+        },
+        {
+          "text": "What products are offered in the company?"
+        },
+        {
+          "text": "What products can I get from your company?"
+        }
+      ],
+      "description": "Find products that are available for purchase."
+    },
+    {
+      "intent": "Customer_Care_Store_Location",
+      "examples": [
+        {
+          "text": "Where is?"
+        },
+        {
+          "text": "I'd like to go to a store"
+        },
+        {
+          "text": "Is there any shopping mall around me?"
+        },
+        {
+          "text": "Looking for a location"
+        },
+        {
+          "text": "Restuarants nearby please"
+        },
+        {
+          "text": "Show me nearest service center"
+        },
+        {
+          "text": "What is the closest pharmacy?"
+        },
+        {
+          "text": "What is the closest store to my address?"
+        },
+        {
+          "text": "What is the nearest branch?"
+        },
+        {
+          "text": "I want to know about a store"
+        },
+        {
+          "text": "I need help with find a store"
+        },
+        {
+          "text": "Go to your company"
+        },
+        {
+          "text": "Find store"
+        },
+        {
+          "text": "Do you have an office in denver?"
+        },
+        {
+          "text": "Can you tell me about physical locations you have in new jersey?"
+        },
+        {
+          "text": "Can you help me find locations in the general area of downtown baltimore?"
+        },
+        {
+          "text": "What is the store near my zip code?"
+        },
+        {
+          "text": "Where are the store locations closest to davis city hall?"
+        },
+        {
+          "text": "Where are you located?"
+        },
+        {
+          "text": "Where is your office?"
+        }
+      ],
+      "description": "Locate a physical store location or an address."
+    },
+    {
+      "intent": "General_Ending",
+      "examples": [
+        {
+          "text": "I d like to stop doing this"
+        },
+        {
+          "text": "Time to go"
+        },
+        {
+          "text": "That's everything"
+        },
+        {
+          "text": "I am leaving"
+        },
+        {
+          "text": "Hey bot go away"
+        },
+        {
+          "text": "Have a nice day?"
+        },
+        {
+          "text": "Goodbye"
+        },
+        {
+          "text": "Good. bye."
+        },
+        {
+          "text": "Going now"
+        },
+        {
+          "text": "Get lost"
+        },
+        {
+          "text": "Finished now, good bye"
+        },
+        {
+          "text": "Ending this session"
+        },
+        {
+          "text": "End trial"
+        },
+        {
+          "text": "Cya later"
+        },
+        {
+          "text": "Catch you later"
+        },
+        {
+          "text": "Bye now"
+        },
+        {
+          "text": "Bye bye"
+        },
+        {
+          "text": "Go off"
+        },
+        {
+          "text": "Go away"
+        },
+        {
+          "text": "That is all"
+        },
+        {
+          "text": "Thanks very much, bye!"
+        },
+        {
+          "text": "Thanks, bye!"
+        },
+        {
+          "text": "Thank you for your time"
+        },
+        {
+          "text": "Stop talking to me"
+        },
+        {
+          "text": "Stop doing this"
+        },
+        {
+          "text": "Shut up"
+        },
+        {
+          "text": "See you"
+        },
+        {
+          "text": "See you later"
+        },
+        {
+          "text": "Ok goodbye"
+        },
+        {
+          "text": "It was nice chatting with you"
+        },
+        {
+          "text": "I'm leaving now"
+        },
+        {
+          "text": "Im good thank you"
+        },
+        {
+          "text": "Im done"
+        },
+        {
+          "text": "I'm done"
+        },
+        {
+          "text": "I want to quit"
+        },
+        {
+          "text": "I have got to go"
+        },
+        {
+          "text": "I am out of here"
+        }
+      ],
+      "description": "End the conversation."
+    },
+    {
+      "intent": "Customer_Care_Store_Hours",
+      "examples": [
+        {
+          "text": "What time does the central manchester store shut on a saturday?"
+        },
+        {
+          "text": "What time do stores close?"
+        },
+        {
+          "text": "What time are you closing today?"
+        },
+        {
+          "text": "What is the opening time for the washington store?"
+        },
+        {
+          "text": "What are your hous?"
+        },
+        {
+          "text": "What are ur opening hours?"
+        },
+        {
+          "text": "What are the saturday opening times for the local store?"
+        },
+        {
+          "text": "What are the hours of operation?"
+        },
+        {
+          "text": "What are the business hours of the store nearest to me?"
+        },
+        {
+          "text": "Is the branch open now?"
+        },
+        {
+          "text": "How long are you open?"
+        },
+        {
+          "text": "How early do you open?"
+        },
+        {
+          "text": "Does the store in the city center opens till 8pm on weekends?"
+        },
+        {
+          "text": "Can you tell me how late the stores are open till?"
+        },
+        {
+          "text": "At what hour can I swing by?"
+        },
+        {
+          "text": "Are you open on sundays, and if so what are the hours?"
+        },
+        {
+          "text": "Are the stores open early?"
+        },
+        {
+          "text": "Are you open on bank holidays?"
+        },
+        {
+          "text": "Are you open during thanksgiving?"
+        },
+        {
+          "text": "What time is your store open on saturday?"
+        }
+      ],
+      "description": "Find business hours."
+    },
+    {
+      "intent": "General_Agent_Capabilities",
+      "examples": [
+        {
+          "text": "Tell me about what kind of things you do?"
+        },
+        {
+          "text": "How do I use you?"
+        },
+        {
+          "text": "I do not know what to ask"
+        },
+        {
+          "text": "Can you please give me a list of the types of things you can help me with?"
+        },
+        {
+          "text": "Can you tell me what services you are able to help me with?"
+        },
+        {
+          "text": "Do you have a list of things I can talk to you about?"
+        },
+        {
+          "text": "Help now"
+        },
+        {
+          "text": "Hi, what do you do?"
+        },
+        {
+          "text": "How can I use you?"
+        },
+        {
+          "text": "How can you help me?"
+        },
+        {
+          "text": "How can you solve my problems?"
+        },
+        {
+          "text": "I'd like to know what type of questions you can answer for me."
+        },
+        {
+          "text": "Is there anything you can help me with?"
+        },
+        {
+          "text": "Tell me something"
+        },
+        {
+          "text": "What are my options that you can help with?"
+        },
+        {
+          "text": "What are my options?"
+        },
+        {
+          "text": "What are you able to deal with?"
+        },
+        {
+          "text": "What are you able to understand?"
+        },
+        {
+          "text": "What are you capable of?"
+        },
+        {
+          "text": "What are you good at?"
+        },
+        {
+          "text": "What are you used for?"
+        },
+        {
+          "text": "What are your skills?"
+        },
+        {
+          "text": "What can I ask you to do?"
+        },
+        {
+          "text": "What do you do?"
+        },
+        {
+          "text": "What do you handle?"
+        },
+        {
+          "text": "What else can you help me with?"
+        },
+        {
+          "text": "What features are in here?"
+        },
+        {
+          "text": "What is this 4?"
+        },
+        {
+          "text": "What kinds of things can you do?"
+        },
+        {
+          "text": "Where can I find the frequently asked questions?"
+        }
+      ],
+      "description": "Request capabilities of the bot."
+    },
+    {
+      "intent": "Thanks",
+      "examples": [
+        {
+          "text": "Thanks for your help"
+        },
+        {
+          "text": "Thank you for helping"
+        },
+        {
+          "text": "Thanks"
+        },
+        {
+          "text": "Thank You"
+        },
+        {
+          "text": "Thank you very much"
+        }
+      ],
+      "description": "user want to thanks"
+    },
+    {
+      "intent": "Customer_Care_Appointments",
+      "examples": [
+        {
+          "text": "Could you cancel the engagement I had tomorrow in my apartment?"
+        },
+        {
+          "text": "How can I change the schedule?"
+        },
+        {
+          "text": "I am due at a store tomorrow at 2pm and wish to change my appointment please?"
+        },
+        {
+          "text": "I need to reschedule"
+        },
+        {
+          "text": "I prefer a face to face visit"
+        },
+        {
+          "text": "I want to cancel the appointment that I have with the store"
+        },
+        {
+          "text": "I want to talk in person with someone about my case"
+        },
+        {
+          "text": "I would like to discuss my situation face to face"
+        },
+        {
+          "text": "I would like to make an appointment to visit the nearest store to my location."
+        },
+        {
+          "text": "Is it possible to set a date?"
+        },
+        {
+          "text": "Make an appointment"
+        },
+        {
+          "text": "Set up an appt"
+        },
+        {
+          "text": "Store appointment"
+        },
+        {
+          "text": "Want to change my visit"
+        },
+        {
+          "text": "When can I meet with one of your employees at your store?"
+        },
+        {
+          "text": "What time can I meet the staff?"
+        },
+        {
+          "text": "Can I book an in person session to learn how to use my new phone at the store near my house?"
+        },
+        {
+          "text": "Can someone support me at home?"
+        },
+        {
+          "text": "Can you explain me this in my house?"
+        },
+        {
+          "text": "Could I speak to someone in the store next tuesday?"
+        }
+      ],
+      "description": "Schedule or manage an in-store appointment."
+    },
+    {
+      "intent": "Customer_Care_Contact_Us",
+      "examples": [
+        {
+          "text": "Hi can you let me have the telephone number of my local store please?"
+        },
+        {
+          "text": "Who can I call?"
+        },
+        {
+          "text": "Which is the number of the main office here in los angeles?"
+        },
+        {
+          "text": "Where can I reach the company personally?"
+        },
+        {
+          "text": "What number should I call to order new line of service?"
+        },
+        {
+          "text": "What is you email?"
+        },
+        {
+          "text": "What is the customer number?"
+        },
+        {
+          "text": "What is the closest store's phone number?"
+        },
+        {
+          "text": "Tell me the number to your general department"
+        },
+        {
+          "text": "Need your phone number"
+        },
+        {
+          "text": "Is there a phone number to your shop at fort worth tx?"
+        },
+        {
+          "text": "I would like to speak to customer service."
+        },
+        {
+          "text": "I want to know number to the store closest to me"
+        },
+        {
+          "text": "How do I best contact you when there has been a problem with my bill?"
+        },
+        {
+          "text": "How can I contact your business?"
+        },
+        {
+          "text": "Can you please arrange for someone to call me!?"
+        },
+        {
+          "text": "Can you give me the number to the general manager?"
+        },
+        {
+          "text": "Can I text you a question?"
+        },
+        {
+          "text": "Can I get some more information?"
+        },
+        {
+          "text": "Can I contact the business by post?"
+        }
+      ],
+      "description": "Find basic contact information."
+    },
+    {
+      "intent": "General_Connect_to_Agent",
+      "examples": [
+        {
+          "text": "Need help from human"
+        },
+        {
+          "text": "I would like to speak to someone"
+        },
+        {
+          "text": "I would like to speak to a human"
+        },
+        {
+          "text": "I want to talk to a person"
+        },
+        {
+          "text": "I want an agent to help me"
+        },
+        {
+          "text": "I want agent"
+        },
+        {
+          "text": "I want a manager"
+        },
+        {
+          "text": "I need to speak to a representative. How would I go about doing so?"
+        },
+        {
+          "text": "Hi can you transfer me"
+        },
+        {
+          "text": "I don't want to talk to you"
+        },
+        {
+          "text": "I don't want to talk to a bot."
+        },
+        {
+          "text": "How can I skip the recorded menu and go straight to a live person?"
+        },
+        {
+          "text": "Please assist me to get to an agent"
+        },
+        {
+          "text": "Operator please"
+        },
+        {
+          "text": "Is there anyone there I can actually talk to for real?"
+        },
+        {
+          "text": "Contact person"
+        },
+        {
+          "text": "Could you please transfer me to your master?"
+        },
+        {
+          "text": "Customer service representative please."
+        },
+        {
+          "text": "Do not want a robot?"
+        },
+        {
+          "text": "Yes, take me to a real person"
+        },
+        {
+          "text": "Where is the closest agent?"
+        },
+        {
+          "text": "Send me to an agent"
+        },
+        {
+          "text": "Put me through to someone"
+        },
+        {
+          "text": "Connect me to a live operator please."
+        },
+        {
+          "text": "Can you connect me with a real person?"
+        },
+        {
+          "text": "Can you assist me to connect to an agent?"
+        },
+        {
+          "text": "Can I talk to someone?"
+        },
+        {
+          "text": "Can I speak with somebody?"
+        },
+        {
+          "text": "Can I speak to an advisor?"
+        },
+        {
+          "text": "Can I speak to a live person?"
+        },
+        {
+          "text": "Can I speak to a human please?"
+        },
+        {
+          "text": "Can I connect to an agent?"
+        },
+        {
+          "text": "Call agent"
+        },
+        {
+          "text": "Agent help"
+        },
+        {
+          "text": "A real agent, please."
+        },
+        {
+          "text": "Pls connect"
+        },
+        {
+          "text": "Please let me talk to a human being."
+        },
+        {
+          "text": "Please connect me to a live agent"
+        }
+      ],
+      "description": "Request a human agent."
+    },
+    {
+      "intent": "Product_Information",
+      "examples": [
+        {
+          "text": "How do I turn on heater?"
+        },
+        {
+          "text": "How do I set time?"
+        },
+        {
+          "text": "How do I access the setting?"
+        }
+      ],
+      "description": "User wants help using the thermostat"
+    }
+  ],
+  "entities": [
+    {
+      "entity": "sys-percentage",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "manual",
+      "values": [
+        {
+          "type": "synonyms",
+          "value": "Manual",
+          "synonyms": [
+            "Document",
+            "Discription"
+          ]
+        }
+      ],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-time",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-location",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-currency",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-person",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-number",
+      "values": [],
+      "fuzzy_match": true
+    },
+    {
+      "entity": "sys-date",
+      "values": [],
+      "fuzzy_match": true
+    }
+  ],
+  "metadata": {
+    "api_version": {
+      "major_version": "v2",
+      "minor_version": "2018-11-08"
+    },
+    "from-sample": true
+  },
+  "webhooks": [
+    {
+      "url": "https://eu-gb.functions.cloud.ibm.com/api/v1/web/yashgandhi17999%40gmail.com_dev/default/disco-action.json",
+      "name": "main_webhook",
+      "headers": []
+    }
+  ],
+  "dialog_nodes": [
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "At what time I make an appointment?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_4_1589284558920",
+      "event_name": "focus",
+      "dialog_node": "handler_7_1589284558952",
+      "previous_sibling": "handler_10_1589284558952"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_4_1589284558920",
+      "context": {
+        "time_": "@sys-time"
+      },
+      "conditions": "@sys-time",
+      "event_name": "input",
+      "dialog_node": "handler_10_1589284558952"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1589041333451",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1589041333498",
+      "previous_sibling": "handler_8_1589041333498"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_9_1589041333451",
+      "context": {
+        "undefined": "$"
+      },
+      "conditions": "$",
+      "event_name": "input",
+      "dialog_node": "handler_8_1589041333498"
+    },
+    {
+      "type": "slot",
+      "parent": "node_8_1589283298753",
+      "variable": "$date",
+      "dialog_node": "slot_1_1589359766665",
+      "previous_sibling": "slot_4_1589284558920"
+    },
+    {
+      "type": "slot",
+      "output": {},
+      "parent": "node_8_1589283298753",
+      "variable": "$time_",
+      "dialog_node": "slot_4_1589284558920"
+    },
+    {
+      "type": "event_handler",
+      "output": {
+        "text": {
+          "values": [
+            "On which day?"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "slot_1_1589359766665",
+      "event_name": "focus",
+      "dialog_node": "handler_3_1589359766709",
+      "previous_sibling": "handler_10_1589359766709"
+    },
+    {
+      "type": "event_handler",
+      "output": {},
+      "parent": "slot_1_1589359766665",
+      "context": {
+        "date": "@sys-date"
+      },
+      "conditions": "@sys-date",
+      "event_name": "input",
+      "dialog_node": "handler_10_1589359766709"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "text": {
+          "values": [
+            "please try again later"
+          ],
+          "selection_policy": "sequential"
+        }
+      },
+      "parent": "node_3_1589039609993",
+      "conditions": "anything_else",
+      "dialog_node": "response_1_1589040824927",
+      "previous_sibling": "response_7_1589040822527"
+    },
+    {
+      "type": "response_condition",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "<?$webhook_result_1.passages[0].passage_text?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          },
+          {
+            "values": [
+              {
+                "text": "<?$webhook_result_1.passages[1].passage_text?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          },
+          {
+            "values": [
+              {
+                "text": "<?$webhook_result_1.passages[2].passage_text?>"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "parent": "node_3_1589039609993",
+      "conditions": "$webhook_result_1",
+      "dialog_node": "response_7_1589040822527",
+      "previous_sibling": "slot_9_1589041333451"
+    },
+    {
+      "type": "slot",
+      "parent": "node_3_1589039609993",
+      "dialog_node": "slot_9_1589041333451"
+    },
+    {
+      "type": "standard",
+      "title": "Greeting",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hi there!. I'm here to help. How can I help you?"
+              },
+              {
+                "text": "Hello. What can I do for you? "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Greetings",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_6_1588903842949",
+      "previous_sibling": "node_2_1589350981299"
+    },
+    {
+      "type": "standard",
+      "title": "Thank You",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Glad to be your assistance"
+              },
+              {
+                "text": "Anytime"
+              },
+              {
+                "text": "You are very welcome"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Thanks",
+      "dialog_node": "node_4_1588904032756",
+      "previous_sibling": "node_6_1588903842949"
+    },
+    {
+      "type": "standard",
+      "title": "Connect to Agent",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Sure. I am connecting to our customer care agent."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Connect_to_Agent",
+      "dialog_node": "node_3_1589283481137",
+      "previous_sibling": "node_8_1589283298753"
+    },
+    {
+      "type": "frame",
+      "title": "Appointment",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Okay, I make your appointment of $time_ on $date."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Customer_Care_Appointments",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_8_1589283298753",
+      "previous_sibling": "node_4_1588904032756"
+    },
+    {
+      "type": "standard",
+      "title": "Hours",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Our store hours are 9:00 AM to 7:00 PM."
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#Customer_Care_Store_Hours",
+      "dialog_node": "node_2_1589350981299",
+      "previous_sibling": "Welcome"
+    },
+    {
+      "type": "standard",
+      "title": "End conversation",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "See you later. Have a nice day."
+              },
+              {
+                "text": "Bye-bye. "
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "#General_Ending",
+      "digress_in": "does_not_return",
+      "dialog_node": "node_4_1589283000466",
+      "previous_sibling": "Anything else"
+    },
+    {
+      "type": "standard",
+      "title": "Ask about product",
+      "actions": [
+        {
+          "name": "main_webhook",
+          "type": "webhook",
+          "parameters": {
+            "input": "<?input.text?>"
+          },
+          "result_variable": "$webhook_result_1"
+        }
+      ],
+      "metadata": {
+        "_customization": {
+          "mcr": true
+        }
+      },
+      "conditions": "#Product_Information",
+      "dialog_node": "node_3_1589039609993",
+      "previous_sibling": "node_3_1589283481137"
+    },
+    {
+      "type": "standard",
+      "title": "Anything else",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "I didn't understand. You can try rephrasing."
+              },
+              {
+                "text": "Can you reword your statement? I'm not understanding."
+              },
+              {
+                "text": "I didn't get your meaning."
+              },
+              {
+                "text": "You like to talk to our customer care employee."
+              },
+              {
+                "text": "Can I provide our owner's manual"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "sequential"
+          }
+        ]
+      },
+      "conditions": "anything_else",
+      "dialog_node": "Anything else",
+      "previous_sibling": "node_3_1589039609993",
+      "disambiguation_opt_out": true
+    },
+    {
+      "type": "standard",
+      "title": "Welcome",
+      "output": {
+        "generic": [
+          {
+            "values": [
+              {
+                "text": "Hello. My name is support bot. I can provide local support to you  How can I help you?"
+              },
+              {
+                "text": "Good Morning!"
+              }
+            ],
+            "response_type": "text",
+            "selection_policy": "multiline"
+          }
+        ]
+      },
+      "conditions": "welcome",
+      "dialog_node": "Welcome"
+    }
+  ],
+  "counterexamples": [],
+  "system_settings": {
+    "off_topic": {
+      "enabled": true
+    },
+    "disambiguation": {
+      "prompt": "Did you mean:",
+      "enabled": true,
+      "randomize": true,
+      "max_suggestions": 5,
+      "suggestion_text_policy": "title",
+      "none_of_the_above_prompt": "None of the above"
+    },
+    "system_entities": {
+      "enabled": true
+    },
+    "human_agent_assist": {
+      "prompt": "Did you mean:"
+    },
+    "spelling_auto_correct": true
+  },
+  "learning_opt_out": false,
+  "name": "Intelligent Customer Help Desk",
+  "language": "en",
+  "description": "Testing the dialog skills"
+}
